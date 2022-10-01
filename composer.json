@@ -16,7 +16,7 @@
 		"symfony/http-foundation": "^5.4.13",
 		"symfony/filesystem": "~3.4",
 		"php-pushover/php-pushover": "dev-master",
-		"paragonie/random_compat": "^2.0",
+		"paragonie/random_compat": "^9.99",
 		"twig/twig": "~1.35",
 		"jaxl/jaxl": "^3.1",
 		"viharm/psm-ldap-auth": "^1.1"
